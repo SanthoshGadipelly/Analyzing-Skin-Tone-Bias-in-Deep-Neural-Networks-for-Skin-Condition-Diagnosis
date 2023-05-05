@@ -9,4 +9,4 @@ Analyzing Skin Tone Bias in Deep Neural Networks for Skin Condition Diagnosis
 7. Data_Augmentation.ipynb - data augmentation to make 3partition labels equal and save a new dataset, 3partitionbalanced_dataset.csv 
 8. 3partitionbalanced_dataset.ipynb - updated dataset after 3partitions are balanced. use VGG16 from DNNmodelcode just change dataset from finaldataset to this dataset
 9. 50imageseach_VGG16.ipynb - data augmentation to make 114 label equal save as a new dataset, equalized_dataset.csv also has VGG16 model in it
-10. contrastchnage.ipynb - changed contarst and VGG16 model on finaldataset.csv
+10. contrastchnage.py - changed contarst and VGG16 model on finaldataset.csv
